@@ -82,7 +82,7 @@ Overall, the solution supports **data-driven decision-making** through clear KPI
 Dashboard screenshots are available in the following directory:
 
 ```text
-powerbi/screenshots
+dashboard/screenshots
 ```
 
 ## 🧰 Tools & Technologies
