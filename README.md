@@ -84,6 +84,8 @@ Dashboard screenshots are available in the following directory:
 ```text
 dashboard/screenshots
 ```
+<img width="1318" height="733" alt="image" src="https://github.com/user-attachments/assets/c558686e-778e-4732-b6af-9d39f8d8a99b" />
+
 
 ## 🧰 Tools & Technologies
 
